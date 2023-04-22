@@ -45,8 +45,6 @@ I will graduate during the summer 2023 and am currently seeking employment.
   <tr>
     <img valign=top src="https://github-readme-stats.vercel.app/api?username=christasich&show_icons=true&theme=transparent&hide_border=true"/>
     <img valign=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=christasich&theme=transparent&hide_border=true&layout=compact&hide=jupyter%20notebook&exclude_repo=bng_arsenic"/>
-  </tr>
-  <tr>
     <img valign=top src="https://github-readme-stats.vercel.app/api/wakatime?username=christasich&theme=transparent&hide_border=true&custom_title=Activity&layout=compact"/>
   </tr>
 </table>
