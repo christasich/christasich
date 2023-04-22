@@ -3,10 +3,11 @@
 # Chris Tasich
 
 [badge-style]: flat
-[![Linkedin](https://img.shields.io/badge/-christasich-blue?style=[badge-style]&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christasich/)](https://www.linkedin.com/in/christasich/)
-[![Twitter](https://img.shields.io/badge/-@ctasich-1ca0f1?style=[badge-style]&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ctasich)](https://twitter.com/ctasich)
-[![GitHub](https://img.shields.io/badge/GitHub-gray?style=[badge-style]&logo=github)](https://github.com/christasich)
-[![Gmail](https://img.shields.io/badge/-chris.tasich-c14438?style=[badge-style]&logo=Gmail&logoColor=white&link=mailto:chris.tasich@gmail.com)](mailto:chris.tasich@gmail.com)
+[![Linkedin](https://img.shields.io/badge/christasich-0071ae?style=[badge-style]&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christasich/)](https://www.linkedin.com/in/christasich/)
+[![Twitter](https://img.shields.io/badge/@ctasich-009ae9?style=[badge-style]&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ctasich)](https://twitter.com/ctasich)
+[![GitHub](https://img.shields.io/badge/christasich-161b22?style=[badge-style]&logo=github&logoColor=white)](https://github.com/christasich)
+[![Gitlab](https://img.shields.io/badge/chris-333238?style=[badge-style]&logo=gitlab)](https://gitlab.jgilligan.org/chris)
+[![Gmail](https://img.shields.io/badge/chris.tasich-white?style=[badge-style]&logo=Gmail&logoColor=ea4335&link=mailto:chris.tasich@gmail.com)](mailto:chris.tasich@gmail.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=christasich.christasich)
 
