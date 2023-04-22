@@ -2,12 +2,11 @@
 
 # Chris Tasich
 
-[badge-style]: flat
-[![Linkedin](https://img.shields.io/badge/christasich-0071ae?style=[badge-style]&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christasich/)](https://www.linkedin.com/in/christasich/)
-[![Twitter](https://img.shields.io/badge/@ctasich-009ae9?style=[badge-style]&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ctasich)](https://twitter.com/ctasich)
-[![GitHub](https://img.shields.io/badge/christasich-161b22?style=[badge-style]&logo=github&logoColor=white)](https://github.com/christasich)
-[![Gitlab](https://img.shields.io/badge/chris-333238?style=[badge-style]&logo=gitlab)](https://gitlab.jgilligan.org/chris)
-[![Gmail](https://img.shields.io/badge/chris.tasich-white?style=[badge-style]&logo=Gmail&logoColor=ea4335&link=mailto:chris.tasich@gmail.com)](mailto:chris.tasich@gmail.com)
+[![Linkedin](https://img.shields.io/badge/christasich-0071ae?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christasich/)](https://www.linkedin.com/in/christasich/)
+[![Twitter](https://img.shields.io/badge/@ctasich-009ae9?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ctasich)](https://twitter.com/ctasich)
+[![GitHub](https://img.shields.io/badge/christasich-161b22?style=flat&logo=github&logoColor=white)](https://github.com/christasich)
+[![Gitlab](https://img.shields.io/badge/chris-333238?style=flat&logo=gitlab)](https://gitlab.jgilligan.org/chris)
+[![Gmail](https://img.shields.io/badge/chris.tasich-white?style=flat&logo=Gmail&logoColor=ea4335&link=mailto:chris.tasich@gmail.com)](mailto:chris.tasich@gmail.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=christasich.christasich)
 
@@ -23,47 +22,31 @@ I will graduate during the summer 2023 and am currently seeking employment.
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?logo=Python&style=[badge-style])
-![R](https://img.shields.io/badge/-R-000?logo=R&style=[badge-style])
-![MATLAB](https://img.shields.io/badge/-MATLAB-000?logo=MATLAB&style=[badge-style])
-![Perl](https://img.shields.io/badge/-Perl-000?logo=Perl&style=[badge-style])
-![Bash](https://img.shields.io/badge/-Bash-000?logo=gnu-bash&style=[badge-style])
-![PowerShell](https://img.shields.io/badge/-PowerShell-000?logo=PowerShell&style=[badge-style])
-![LaTeX](https://img.shields.io/badge/-LaTeX-000?logo=LaTeX&style=[badge-style])
+![Python](https://img.shields.io/badge/-Python-000?logo=Python&style=flat)
+![R](https://img.shields.io/badge/-R-000?logo=R&style=flat)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000?logo=MATLAB&style=flat)
+![Perl](https://img.shields.io/badge/-Perl-000?logo=Perl&style=flat)
+![Bash](https://img.shields.io/badge/-Bash-000?logo=gnu-bash&style=flat)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000?logo=PowerShell&style=flat)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000?logo=LaTeX&style=flat)
 
 ### Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=[badge-style])
-![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&style=[badge-style])
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=[badge-style])
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=[badge-style])
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&style=[badge-style])
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?logo=Jupyter&style=[badge-style])
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&style=flat)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?logo=Jupyter&style=flat)
 
 ### Stats
 
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=christasich&show_icons=true&theme=dark&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api?username=christasich&show_icons=true&hide_border=true"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=christasich&show_icons=true&hide_border=true" />
-</picture>
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=christasich&theme=dark&layout=compact&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=christasich&layout=compact&hide_border=true"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christasich&layout=compact&hide_border=true" />
-</picture>
-
-</div>
+<table>
+  <tr>
+    <img valign=top src="https://github-readme-stats.vercel.app/api?username=christasich&show_icons=true&theme=transparent&hide_border=true"/>
+    <img valign=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=christasich&theme=transparent&hide_border=true&layout=compact&hide=jupyter%20notebook&exclude_repo=bng_arsenic"/>
+  </tr>
+  <tr>
+    <img valign=top src="https://github-readme-stats.vercel.app/api/wakatime?username=christasich&theme=transparent&hide_border=true&custom_title=Activity&layout=compact"/>
+  </tr>
+</table>
