@@ -8,7 +8,7 @@
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.jgilligan.org/chris)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chris.tasich@gmail.com)](mailto:chris.tasich@gmail.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=christasich.christasich&style=for-the-badge)
+![visitors](https://komarev.com/ghpvc/?username=christasich&style=for-the-badge)
 
 <div align="justify">
 
