@@ -41,12 +41,15 @@ I will graduate during the summer 2023 and am currently seeking employment.
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Stats
-
 <table>
   <tr>
-    <img align=center valign=top src="https://github-readme-stats.vercel.app/api?username=christasich&show_icons=true&theme=transparent&hide_border=true&hide_title=true"/>
-    <img align=center valign=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=christasich&theme=transparent&hide_border=true&layout=compact&hide=jupyter%20notebook,tex&exclude_repo=bng_arsenic&hide_title=true"/>
-    <!---<img align=center valign=top src="https://github-readme-stats.vercel.app/api/wakatime?username=christasich&theme=transparent&hide_border=true&custom_title=Activity&layout=compact&hide_title=true"/>--->
+    <tr>
+    <th>Stats</th>
+    <th>Top Languages</th>
+<!--     <th>Weekly Stats</th> -->
+  </tr>
+    <td><img align=center valign=top src="https://github-readme-stats.vercel.app/api?username=christasich&show_icons=true&theme=transparent&hide_border=true&hide_title=true"/></td>
+    <td><img align=center valign=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=christasich&theme=transparent&hide_border=true&layout=compact&hide=jupyter%20notebook,tex&exclude_repo=bng_arsenic&hide_title=true"/></td>
+<!--     <td><img align=center valign=top src="https://github-readme-stats.vercel.app/api/wakatime?username=christasich&theme=transparent&hide_border=true&custom_title=Activity&layout=compact&hide_title=true"/></td> -->
   </tr>
 </table>
