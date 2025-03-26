@@ -37,16 +37,3 @@ I am a [2023 PMF Fellow](https://www.opm.gov/news/releases/2023/02/release-us-of
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<table>
-  <thead>
-  <tr>
-    <th colspan="2">Stats</th>
-  </tr>
-  </thead>
-  <tbody>
-    <td><img align=center valign=top src="https://christasich.vercel.app/api?username=christasich&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true"/></td>
-    <td><img align=center valign=top src="https://christasich.vercel.app/api/top-langs?username=christasich&theme=transparent&hide_border=true&layout=compact&hide=tex&exclude_repo=bng_arsenic,tidal_flat_0d,github-readme-stats&hide_title=true"/></td>
-  </tr>
-  </tbody>
-</table>
